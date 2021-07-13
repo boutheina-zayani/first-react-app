@@ -1,0 +1,16 @@
+.hello{
+    width: 390px;
+    background-color: #dc354529;
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 37px 35px 100px 54px;
+    margin-left: 35%;
+    margin-top: 10%;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.espace{
+    padding: -1px 37px 202px 37px;
+    margin:10%  
+ }
+
+
